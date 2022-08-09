@@ -1,0 +1,13 @@
+{
+    "args": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Host": "httpbin.org",
+        "Postman-Token": "01465d2c-ca70-4af0-92a8-f1e4ebba259f",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62f2b2c3-5bae2a8e3226ffdb5e730415"
+    },
+    "origin": "77.123.97.232",
+    "url": "http://httpbin.org/get"
+}
